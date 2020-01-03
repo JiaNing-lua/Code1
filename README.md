@@ -2,4 +2,4 @@
 undergraduate
 
 update 2020.1.3
-  web crawler：http://www.cnprose.com/
+  拼接一个文件夹中的所有txt：pinjietxt.py
